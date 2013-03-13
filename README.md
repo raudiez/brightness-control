@@ -1,4 +1,4 @@
-          brightness-control, release 1.2
+#          brightness-control, release 1.2
 ===================================================
 
 
