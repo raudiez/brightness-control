@@ -51,7 +51,7 @@ ES:
 
 Este programa funciona en cualquier hardware, porque usa comandos del Sistema Linux y sentencias Bash; y Linux es compatible con la mayoría de PCs.
 
-# INSTALLING
+# INSTALACIÓN
 
 Una vez que el archivo "brillo" esté descargado, póngalo dentro del directorio /bin como root:
 
