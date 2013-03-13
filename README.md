@@ -50,7 +50,7 @@ Y luego, proporciónele permisos de ejecución:
 
     sudo chmod +x /bin/brillo
 
-Finalmente, edite el archivo /etc/rc.local , e inserte las siguientes líneas antes de la línea "exit 0":
+Finalmente, edite el archivo * /etc/rc.local *, e inserte las siguientes líneas antes de la línea "exit 0":
 
           setpci -s 00:02.0 f4.b=00
           /bin/brillo &
