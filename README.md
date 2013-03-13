@@ -4,24 +4,24 @@
 Copyright (C) 2012/2013 Raúl Díez Sánchez.
 Mail: rauldiez20@gmail.com
 
+EN:  A very simple executable code to control the brightness of your laptop.
+This program implements a script that allows increase and lower the backlight (brightness) of your laptop.
+Read this file to know how to install it on your system. All the file are in english and spanish.
+
  This program is free software; you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
  the Free Software Foundation; either version 3 of the License, or
  (at your option) any later version.
  You can find the GNU GPL on http://www.gnu.org/licenses/gpl.html
 
+ES: Código ejecutable muy simple que controla el brillo de tu portátil.
+Este programa implementa un script que permite subir y bajar la retroiluminacion (brillo) de tu portatil.
+Lea este fichero para saber cómo instalarlo en su sistema. Todo el archivo está en inglés y en español.
+
  Este programa es software libre; puedes redistribuirlo y/o modificarlo
  bajo los términos de la GNU General Public License tal y como se publicó por
  la Free Software Foundation; sea la version 3 de la Licencia, o cualquier versión posterior.
  Puedes encontrar la GNU GPL en http://www.gnu.org/licenses/gpl.html (en inglés).
-
-EN:  A very simple executable code to control the brightness of your laptop.
-This program implements a script that allows increase and lower the backlight (brightness) of your laptop.
-Read this file to know how to install it on your system. All the file are in english and spanish.
-
-ES: Código ejecutable muy simple que controla el brillo de tu portátil.
-Este programa implementa un script que permite subir y bajar la retroiluminacion (brillo) de tu portatil.
-Lea este fichero para saber cómo instalarlo en su sistema. Todo el archivo está en inglés y en español.
 
 EN: 
 # ON WHAT HARDWARE DOES IT RUN?
