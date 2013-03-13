@@ -1,7 +1,19 @@
 #          brightness-control, release 1.2
 ===================================================
 
+Copyright (C) 2012/2013 Raúl Díez Sánchez.
+Mail: rauldiez20@gmail.com
 
+ This program is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; either version 3 of the License, or
+ (at your option) any later version.
+ You can find the GNU GPL on http://www.gnu.org/licenses/gpl.html
+
+ Este programa es software libre; puedes redistribuirlo y/o modificarlo
+ bajo los términos de la GNU General Public License tal y como se publicó por
+ la Free Software Foundation; sea la version 3 de la Licencia, o cualquier versión posterior.
+ Puedes encontrar la GNU GPL en http://www.gnu.org/licenses/gpl.html (en inglés).
 
 EN:  A very simple executable code to control the brightness of your laptop.
 This program implements a script that allows increase and lower the backlight (brightness) of your laptop.
@@ -32,7 +44,6 @@ Finally, edit the file /etc/rc.local , and insert the following lines before of 
           /bin/brillo &
 
 It's done! Reboot your system and your brightness would work properly.
-
 
 
 ES: 
