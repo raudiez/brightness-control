@@ -12,11 +12,11 @@ Este programa implementa un script que permite subir y bajar la retroiluminacion
 Lea este fichero para saber cómo instalarlo en su sistema. Todo el archivo está en inglés y en español.
 
 EN: 
-          ON WHAT HARDWARE DOES IT RUN?
+# ON WHAT HARDWARE DOES IT RUN?
 
 This program run in all hardware, because it use Linux's System commands and Bash sentences; and Linux is compatible with most PCs.
 
-          INSTALLING
+# INSTALLING
 
 Once the "brillo" file is download, put it into /bin as root:
 
@@ -36,11 +36,11 @@ It's done! Reboot your system and your brightness would work properly.
 
 
 ES: 
-          ¿EN QUÉ HARDWARE FUNCIONA?
+# ¿EN QUÉ HARDWARE FUNCIONA?
 
 Este programa funciona en cualquier hardware, porque usa comandos del Sistema Linux y sentencias Bash; y Linux es compatible con la mayoría de PCs.
 
-          INSTALLING
+# INSTALLING
 
 Una vez que el archivo "brillo" esté descargado, póngalo dentro del directorio /bin como root:
 
