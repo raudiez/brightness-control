@@ -1,4 +1,4 @@
-##          brightness-control, release 1.2
+##          brightness-control, release 1.3
 
 Copyright (C) 2012/2013 Raúl Díez Sánchez.
 Mail: rauldiez20@gmail.com
